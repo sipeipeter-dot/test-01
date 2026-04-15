@@ -10,8 +10,10 @@
 python3 hello.py
 ```
 
-运行后将输出：
+运行后将输出类似：
 
 ```text
-hello world
+hello codex test
+2026-04-15T12:34:56.789012
+computer name: your-hostname
 ```
